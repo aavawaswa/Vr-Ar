@@ -54,3 +54,4 @@
 *.BZIP2 filter=lfs diff=lfs merge=lfs -text
 *.GZIP filter=lfs diff=lfs merge=lfs -text
 *.WIM filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
