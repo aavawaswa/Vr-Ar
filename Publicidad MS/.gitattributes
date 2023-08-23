@@ -50,6 +50,7 @@
 *.TTC filter=lfs diff=lfs merge=lfs -text
 *.ZIP filter=lfs diff=lfs merge=lfs -text
 *.7Z filter=lfs diff=lfs merge=lfs -text
+*.TGZ filter=lfs diff=lfs merge=lfs -text
 *.TAR filter=lfs diff=lfs merge=lfs -text
 *.BZIP2 filter=lfs diff=lfs merge=lfs -text
 *.GZIP filter=lfs diff=lfs merge=lfs -text
